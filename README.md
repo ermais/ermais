@@ -31,15 +31,35 @@ Experienced mobile and full-stack developer specializing in building scalable, u
 - Implemented interactive exam system with real-time scoring and downloadable course materials
 - Integrated Google Auth and REST APIs, reducing onboarding time
 
-### 🎉 Event Connect (Maeteb)
+### 🎉 Event Connect - Attendee App
+**Mobile Application Developer** | 2024
+
+- Built Flutter-based mobile app for event discovery, ticket booking, and event management using **Riverpod** state management
+- Implemented **QR code** ticket generation and validation system for seamless event check-in
+- Integrated **Firebase Cloud Messaging** for real-time push notifications and event updates
+- Developed wishlist feature with offline support using **Hive** local database
+- Integrated **Chapa Payment Gateway** and **Google Authentication** for secure transactions
+- Created bilingual interface (English/Amharic) with Ethiopian calendar support
+
+### 🎪 Event Connect - Organizer App
+**Mobile Application Developer** | 2024
+
+- Developed comprehensive event management platform for organizers using Flutter and **Clean Architecture**
+- Built ticket sales analytics dashboard with **FL Chart** for revenue tracking and insights
+- Implemented team management system with role-based access control (Owner, Manager, Scanner, Finance, Marketing)
+- Created QR code scanning system for ticket validation and attendee check-in
+- Integrated payment approval workflow for Chapa, bank transfer, and cash payments
+- Developed notification campaign system to broadcast updates to event attendees
+
+### 🌐 Event Connect - Backend (Maeteb)
 **Full-Stack Developer** | 2024
 
-- Architected comprehensive event management ecosystem with three specialized applications (Attendee, Organizer, Backend)
-- Built Flutter mobile apps using **Riverpod**, **Firebase**, **Google Maps**, and **QR code** scanning for ticket validation
-- Developed **Next.js** backend with **Prisma ORM**, **PostgreSQL**, and **Better Auth** for Ethiopian Orthodox events
-- Integrated **Chapa Payment Gateway** with webhook validation, multi-tier ticketing, and promo code system
-- Implemented push notifications via Firebase Cloud Messaging and email notifications with React Email
-- Created bilingual platform (English/Amharic) with Ethiopian calendar integration for pilgrimage trip planning
+- Architected **Next.js** backend with **Prisma ORM** and **PostgreSQL** for Ethiopian Orthodox event management
+- Implemented **Better Auth** authentication system with JWT tokens and role-based permissions
+- Developed **Chapa Payment Gateway** webhook integration with HMAC SHA-256 signature validation
+- Built email notification system using **Nodemailer** and **React Email** templates
+- Created multi-tier ticketing system with promo codes and dynamic pricing
+- Designed RESTful APIs for event CRUD, ticket management, and analytics tracking
 
 ### 🛒 Dire Gebeya (Remote)
 **Mobile and Web Developer** | Oct 2024 - Present
