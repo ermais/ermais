@@ -20,7 +20,9 @@ Currently, I am modernizing fintech solutions at the **Commercial Bank of Ethiop
 ---
 
 ### 🏗️ Architectural Philosophy
+
 I prioritize maintainable, testable code by leveraging:
+
 * **Reactive UI:** Implementing **LiveData** and **Data Binding** in Kotlin for seamless data flow.
 * **Robust State Management:** Expert use of **Redux**, **Riverpod**, and **BLoC** for complex application states.
 * **Offline-First Design:** Ensuring reliability using **Room**, **Drift**, and **Hive** for local persistence.
@@ -49,10 +51,12 @@ I prioritize maintainable, testable code by leveraging:
 * 🌍 Based in **Addis Ababa, Ethiopia** (Open to Remote/Relocating)
 * 📧 [ermiasmesfin123@gmail.com](mailto:ermiasmesfin123@gmail.com)
 * 📞 +251 904 324 081
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL) | 🐙 [GitHub](https://github.com/ermiasmesfin123)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ermiasmesfin) | 🐙 [GitHub](https://github.com/ermiasmesfin123)
 
 ---
 
 ### 📊 GitHub Stats
+
 ![Ermias's GitHub stats](https://github-readme-stats.vercel.app/api?username=ermiasmesfin123&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermiasmesfin123&layout=compact&theme=radical)
