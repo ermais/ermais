@@ -31,6 +31,16 @@ Experienced mobile and full-stack developer specializing in building scalable, u
 - Implemented interactive exam system with real-time scoring and downloadable course materials
 - Integrated Google Auth and REST APIs, reducing onboarding time
 
+### 🎉 Event Connect (Maeteb)
+**Full-Stack Developer** | 2024
+
+- Architected comprehensive event management ecosystem with three specialized applications (Attendee, Organizer, Backend)
+- Built Flutter mobile apps using **Riverpod**, **Firebase**, **Google Maps**, and **QR code** scanning for ticket validation
+- Developed **Next.js** backend with **Prisma ORM**, **PostgreSQL**, and **Better Auth** for Ethiopian Orthodox events
+- Integrated **Chapa Payment Gateway** with webhook validation, multi-tier ticketing, and promo code system
+- Implemented push notifications via Firebase Cloud Messaging and email notifications with React Email
+- Created bilingual platform (English/Amharic) with Ethiopian calendar integration for pilgrimage trip planning
+
 ### 🛒 Dire Gebeya (Remote)
 **Mobile and Web Developer** | Oct 2024 - Present
 
