@@ -10,7 +10,7 @@ Experienced mobile and full-stack developer specializing in building scalable, u
 
 📍 **Location**: Addis Ababa, Ethiopia  
 🌐 **Work Preferences**: Remote • Hybrid • On-Site • Open to Relocate  
-📱 **Contact**: +251904324081
+📱 **Contact**: +251904324081 • +251905358384
 
 ---
 
@@ -113,6 +113,12 @@ Experienced mobile and full-stack developer specializing in building scalable, u
 ### 🏦 [CBE Mobile Banking App](https://play.google.com/store/apps/details?id=com.cbe.cbe_mobile_banking)
 **Commercial Bank of Ethiopia** | May 2024 - Present
 
+<div align="center">
+  <img src="./screenshots/cbe-banking-1.png" alt="CBE Banking Screenshot 1" width="200"/>
+  <img src="./screenshots/cbe-banking-2.png" alt="CBE Banking Screenshot 2" width="200"/>
+  <img src="./screenshots/cbe-banking-3.png" alt="CBE Banking Screenshot 3" width="200"/>
+</div>
+
 A comprehensive mobile banking solution serving millions of users in Ethiopia.
 
 **Tech Stack**: Flutter • Riverpod • DIO • Google Maps • Hive  
@@ -131,6 +137,12 @@ A comprehensive mobile banking solution serving millions of users in Ethiopia.
 
 ### 💳 [CBE Mobile Micro Loan System](https://play.google.com/store/apps/details?id=com.cbe.loan)
 **Commercial Bank of Ethiopia** | Jul 2024 - Present
+
+<div align="center">
+  <img src="./screenshots/cbe-loan-1.png" alt="CBE Loan Screenshot 1" width="200"/>
+  <img src="./screenshots/cbe-loan-2.png" alt="CBE Loan Screenshot 2" width="200"/>
+  <img src="./screenshots/cbe-loan-3.png" alt="CBE Loan Screenshot 3" width="200"/>
+</div>
 
 End-to-end loan application and management system.
 
@@ -151,6 +163,12 @@ End-to-end loan application and management system.
 ### 🎓 Ahadu School Mobile App
 **Ahadu Schools** | Jul 2024 - Aug 2024
 
+<div align="center">
+  <img src="./screenshots/ahadu-1.png" alt="Ahadu School Screenshot 1" width="200"/>
+  <img src="./screenshots/ahadu-2.png" alt="Ahadu School Screenshot 2" width="200"/>
+  <img src="./screenshots/ahadu-3.png" alt="Ahadu School Screenshot 3" width="200"/>
+</div>
+
 Educational platform enabling students to access courses, take exams, and track progress.
 
 **Tech Stack**: Flutter • BLoC • DIO • Firebase • Google Auth  
@@ -168,6 +186,12 @@ Educational platform enabling students to access courses, take exams, and track 
 
 ### 🛒 Dire Gebeya (E-Commerce Platform)
 **Personal Project (Remote)** | Oct 2024 - Present
+
+<div align="center">
+  <img src="./screenshots/dire-gebeya-1.png" alt="Dire Gebeya Screenshot 1" width="200"/>
+  <img src="./screenshots/dire-gebeya-2.png" alt="Dire Gebeya Screenshot 2" width="200"/>
+  <img src="./screenshots/dire-gebeya-3.png" alt="Dire Gebeya Screenshot 3" width="200"/>
+</div>
 
 Full-stack marketplace platform with mobile, web, and API layers.
 
@@ -188,6 +212,12 @@ Full-stack marketplace platform with mobile, web, and API layers.
 
 ### 🎉 Event Connect Platform
 **Personal Project** | 2024
+
+<div align="center">
+  <img src="./screenshots/event-connect-attendee-1.png" alt="Event Connect Attendee" width="200"/>
+  <img src="./screenshots/event-connect-organizer-1.png" alt="Event Connect Organizer" width="200"/>
+  <img src="./screenshots/event-connect-backend-1.png" alt="Event Connect Backend" width="200"/>
+</div>
 
 Comprehensive event management ecosystem with three specialized apps.
 
@@ -275,7 +305,7 @@ Mekelle University | Sep 2016 - Dec 2020
 I'm passionate about solving complex problems through innovative mobile and full-stack solutions. Whether you're looking to collaborate on a project or discuss opportunities in fintech, e-commerce, or education technology, I'd love to hear from you!
 
 - 📧 Email: [ermiasmesfin123@gmail.com](mailto:ermiasmesfin123@gmail.com)
-- 📱 Phone: +251904324081
+- 📱 Phone: +251904324081 • +251905358384
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
 - 🐙 GitHub: [Follow me](https://github.com/your-username)
 
