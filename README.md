@@ -6,7 +6,7 @@
 
 ## 🚀 Mobile Application Developer | Full-Stack Engineer
 
-Experienced mobile and full-stack developer specializing in building scalable, user-centric applications across platforms. Currently driving fintech innovation at **Commercial Bank of Ethiopia** while remotely architecting **Dire Gebeya**, an e-commerce marketplace platform.
+Experienced mobile and full-stack developer specializing in building scalable, user-centric applications across platforms. Currently driving fintech innovation at **Commercial Bank of Ethiopia** while remotely architecting **Dire Gebeya**, an e-commerce marketplace platform. Successfully launched **[Maeteb](https://play.google.com/store/apps/details?id=com.maeteb.maeteb)** - a live event management platform on Google Play Store.
 
 📍 **Location**: Addis Ababa, Ethiopia  
 🌐 **Work Preferences**: Remote • Hybrid • On-Site • Open to Relocate  
@@ -24,44 +24,27 @@ Experienced mobile and full-stack developer specializing in building scalable, u
 - Led development of **Loan Mobile App System**, implementing flexible user journeys and dynamic navigation
 - Optimized app performance by resolving dependency conflicts and reducing technical debt through systematic refactoring
 
-### 📚 Ahadu Schools
+### 📚 **Ahadu Schools**
 **Mobile Application Developer** | Aug 2024 - Present
 
 - Extended web platform by designing and building Flutter-based mobile app for student registration, course access, and exam management
 - Implemented interactive exam system with real-time scoring and downloadable course materials
 - Integrated Google Auth and REST APIs, reducing onboarding time
 
-### 🎉 Event Connect - Attendee App
-**Mobile Application Developer** | 2024
+### 🎉 **Maeteb (Event Connect)**
+**Full-Stack Developer** | 2024 | [Play Store](https://play.google.com/store/apps/details?id=com.maeteb.maeteb)
 
-- Built Flutter-based mobile app for event discovery, ticket booking, and event management using **Riverpod** state management
-- Implemented **QR code** ticket generation and validation system for seamless event check-in
-- Integrated **Firebase Cloud Messaging** for real-time push notifications and event updates
-- Developed wishlist feature with offline support using **Hive** local database
-- Integrated **Chapa Payment Gateway** and **Google Authentication** for secure transactions
-- Created bilingual interface (English/Amharic) with Ethiopian calendar support
+**Live event management platform deployed on Google Play Store**
 
-### 🎪 Event Connect - Organizer App
-**Mobile Application Developer** | 2024
+- Architected and launched **Maeteb** - comprehensive event management ecosystem with 3 specialized applications
+- Built Flutter mobile apps (Attendee & Organizer) using **Riverpod**, **Firebase**, and **Clean Architecture**
+- Developed **Next.js** backend with **Prisma ORM**, **PostgreSQL**, and **Better Auth** for Ethiopian Orthodox events
+- Integrated **Chapa Payment Gateway** with webhook validation, multi-tier ticketing, and promo code system
+- Implemented push notifications via Firebase Cloud Messaging and email notifications with React Email
+- Created bilingual platform (English/Amharic) with Ethiopian calendar integration for pilgrimage trip planning
+- Built QR code ticket generation/validation system and team management with role-based access control
 
-- Developed comprehensive event management platform for organizers using Flutter and **Clean Architecture**
-- Built ticket sales analytics dashboard with **FL Chart** for revenue tracking and insights
-- Implemented team management system with role-based access control (Owner, Manager, Scanner, Finance, Marketing)
-- Created QR code scanning system for ticket validation and attendee check-in
-- Integrated payment approval workflow for Chapa, bank transfer, and cash payments
-- Developed notification campaign system to broadcast updates to event attendees
-
-### 🌐 Event Connect - Backend (Maeteb)
-**Full-Stack Developer** | 2024
-
-- Architected **Next.js** backend with **Prisma ORM** and **PostgreSQL** for Ethiopian Orthodox event management
-- Implemented **Better Auth** authentication system with JWT tokens and role-based permissions
-- Developed **Chapa Payment Gateway** webhook integration with HMAC SHA-256 signature validation
-- Built email notification system using **Nodemailer** and **React Email** templates
-- Created multi-tier ticketing system with promo codes and dynamic pricing
-- Designed RESTful APIs for event CRUD, ticket management, and analytics tracking
-
-### 🛒 Dire Gebeya (Remote)
+### 🛒 **Dire Gebeya** (Remote)
 **Mobile and Web Developer** | Oct 2024 - Present
 
 - Architected entire e-commerce platform including mobile app, web platform, and RESTful APIs
