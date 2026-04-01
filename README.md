@@ -119,9 +119,6 @@ A comprehensive mobile banking solution serving millions of users in Ethiopia.
 **Commercial Bank of Ethiopia** | Jul 2024 - Present
 
 <div align="center">
-  <img src="./screenshots/cbe-loan-1.png" alt="CBE Loan Screenshot 1" width="200"/>
-  <img src="./screenshots/cbe-loan-2.png" alt="CBE Loan Screenshot 2" width="200"/>
-  <img src="./screenshots/cbe-loan-3.png" alt="CBE Loan Screenshot 3" width="200"/>
 </div>
 
 End-to-end loan application and management system.
@@ -144,7 +141,7 @@ End-to-end loan application and management system.
 **Ahadu Schools** | Jul 2024 - Aug 2024
 
 <div align="center">
-  <img src="./screenshots/E-Learning.jpg" alt="Ahadu School Screenshot 1" width="200"/>
+  <img src="./screenshots/E-Learning.jpg" alt="Ahadu School Screenshot 1" width="1080"/>
 </div>
 
 Educational platform enabling students to access courses, take exams, and track progress.
@@ -166,7 +163,7 @@ Educational platform enabling students to access courses, take exams, and track 
 **Personal Project (Remote)** | Oct 2024 - Present
 
 <div align="center">
-  <img src="./screenshots/E-Commerce.jpg" alt="Dire Gebeya Screenshot 1" width="200"/>
+  <img src="./screenshots/E-Commerce.jpg" alt="Dire Gebeya Screenshot 1" width="1080"/>
 </div>
 
 Full-stack marketplace platform with mobile, web, and API layers.
