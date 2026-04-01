@@ -147,9 +147,7 @@ End-to-end loan application and management system.
 **Ahadu Schools** | Jul 2024 - Aug 2024
 
 <div align="center">
-  <img src="./screenshots/ahadu-1.png" alt="Ahadu School Screenshot 1" width="200"/>
-  <img src="./screenshots/ahadu-2.png" alt="Ahadu School Screenshot 2" width="200"/>
-  <img src="./screenshots/ahadu-3.png" alt="Ahadu School Screenshot 3" width="200"/>
+  <img src="./screenshots/E-Learning.jpg" alt="Ahadu School Screenshot 1" width="200"/>
 </div>
 
 Educational platform enabling students to access courses, take exams, and track progress.
@@ -171,9 +169,7 @@ Educational platform enabling students to access courses, take exams, and track 
 **Personal Project (Remote)** | Oct 2024 - Present
 
 <div align="center">
-  <img src="./screenshots/dire-gebeya-1.png" alt="Dire Gebeya Screenshot 1" width="200"/>
-  <img src="./screenshots/dire-gebeya-2.png" alt="Dire Gebeya Screenshot 2" width="200"/>
-  <img src="./screenshots/dire-gebeya-3.png" alt="Dire Gebeya Screenshot 3" width="200"/>
+  <img src="./screenshots/E-Commerce.jpg" alt="Dire Gebeya Screenshot 1" width="200"/>
 </div>
 
 Full-stack marketplace platform with mobile, web, and API layers.
@@ -197,9 +193,7 @@ Full-stack marketplace platform with mobile, web, and API layers.
 **Personal Project** | 2024
 
 <div align="center">
-  <img src="./screenshots/event-connect-attendee-1.png" alt="Event Connect Attendee" width="200"/>
-  <img src="./screenshots/event-connect-organizer-1.png" alt="Event Connect Organizer" width="200"/>
-  <img src="./screenshots/event-connect-backend-1.png" alt="Event Connect Backend" width="200"/>
+  <img src="./screenshots/Event_Connect.jpg" alt="Event Connect Attendee" width="1080"/>
 </div>
 
 Comprehensive event management ecosystem with three specialized apps.
