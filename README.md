@@ -97,9 +97,6 @@ Experienced mobile and full-stack developer specializing in building scalable, u
 **Commercial Bank of Ethiopia** | May 2024 - Present
 
 <div align="center">
-  <img src="./screenshots/cbe-banking-1.png" alt="CBE Banking Screenshot 1" width="200"/>
-  <img src="./screenshots/cbe-banking-2.png" alt="CBE Banking Screenshot 2" width="200"/>
-  <img src="./screenshots/cbe-banking-3.png" alt="CBE Banking Screenshot 3" width="200"/>
 </div>
 
 A comprehensive mobile banking solution serving millions of users in Ethiopia.
